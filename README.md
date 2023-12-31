@@ -6,6 +6,7 @@
 2. 評価に使えるよう，アルファベット+記号のみの文章へ変換
 
 ```shell
+pyenv local 3.9.18
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
