@@ -12,7 +12,7 @@
     1. `julia --project=.`
     1. `pkg> instantiate`
 
-## 実行
+## How to use
 
 ```julia
 julia --project=.
