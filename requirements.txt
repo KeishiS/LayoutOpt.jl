@@ -1,0 +1,4 @@
+Deprecated==1.2.14
+jaconv==0.3.4
+pykakasi==2.2.1
+wrapt==1.16.0
